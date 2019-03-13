@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526992376 source:c:\users\mihai pure\documents\c++ projects\012 - programare orientata pe obiecte\tema3\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<typeinfo>
+
